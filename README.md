@@ -9,19 +9,16 @@ To run and test our additions to the code base, simply type "python main.py" in 
 Our contributions to the code base are as follows:
 
 moderator.py                  (first version of our moderator that catches the malicious content of "Spread infection to other users (GPT-4))
+
 moderatorTest.py                (this file will test our first version of the moderator)
+
 spread_sanitized.py             (advanced sanitized version of the spread infection scenario)
+
 remote_control_sanitized.py     (remote control scenario sanitized version)
+
 data_exfiltration_sanitized.py  (data exfiltration scenario sanitized version)
 
-inspection_agent.py             
-
-^ This inspection agent module provides an InspectionAgent class designed
-to sanitize and spotlight potentially harmful content
-from inputs processed by a ChatML-based application. 
-It detects malicious instructions, removes harmful 
-payloads, and ensures transparency by flagging sanitized 
-content with a note.
+inspection_agent.py  - This inspection agent module provides an InspectionAgent class designed to sanitize and spotlight potentially harmful content from inputs processed by a ChatML-based application. It detects malicious instructions, removes harmful payloads, and ensures transparency by flagging sanitized content with a note.
 
 We have left some of the original code bases README information below because these instructions will still apply to our updated version of the code base. The original code base can be found here- https://github.com/greshake/llm-security/tree/main
 
