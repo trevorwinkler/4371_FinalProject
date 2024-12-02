@@ -4,7 +4,7 @@ To clone this repo-
 
 git clone https://github.com/trevorwinkler/4371_FinalProject.git
 
-To run and test our additions to the code base, simply type "python main.py" in the terminal and choose which scenario you would like to test. "Spread infection MODERATOR TEST (GPT-4)" will demonstrate our first version of the moderator that catches the malicious content of the "Spread infection to other users (GPT-4)" scenario. To demonstrate our more advanced indirect prompt injection moderators, you can run the other scenarios that will all have "sanitized" in their name. 
+To run and test our additions to the code base, simply type "python main.py" in the terminal and choose which scenario you would like to test. "Spread infection MODERATOR TEST (GPT-4)" will demonstrate our first version of the moderator that catches the malicious content of the "Spread infection to other users (GPT-4)" scenario. To demonstrate our more advanced indirect prompt injection moderators, you can run the other scenarios that will all have "sanitized" in their name. You will need to have a chatgpt account that has credits available to run our program.
 
 Our contributions to the code base are as follows:
 
